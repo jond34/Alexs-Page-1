@@ -1,0 +1,21 @@
+body {
+    background-color: cornflowerblue;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
+}
+
+h2 {
+  color: firebrick;
+}
+
+ul {
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+}
